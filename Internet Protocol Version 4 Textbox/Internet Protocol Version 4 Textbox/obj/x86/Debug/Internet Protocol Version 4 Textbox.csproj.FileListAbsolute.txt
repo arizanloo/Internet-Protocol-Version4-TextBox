@@ -1,0 +1,9 @@
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\bin\Debug\Internet Protocol Version 4 Textbox.exe
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\bin\Debug\Internet Protocol Version 4 Textbox.pdb
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\obj\x86\Debug\Internet_Protocol_Version_4_Textbox.Form1.resources
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\obj\x86\Debug\Internet_Protocol_Version_4_Textbox.Properties.Resources.resources
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\obj\x86\Debug\Internet Protocol Version 4 Textbox.exe
+E:\Alireza Projects\c#(a)\Internet Protocol Version 4 Textbox\Internet Protocol Version 4 Textbox\obj\x86\Debug\Internet Protocol Version 4 Textbox.pdb
