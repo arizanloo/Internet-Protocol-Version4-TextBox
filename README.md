@@ -1,5 +1,5 @@
 # Internet Protocol Version4 TextBox
-This project is a sample of Windows IPV4 TextBox. To create it, use a PictureBox with blank white image as Background, four TextBoxes, four labels and folowing code.
+This project is a sample of Windows IPv4 TextBox. To create it, use a PictureBox with blank white image as Background, four TextBoxes, four labels and folowing code.
 There is some notes for This Project:
   * Set PictureBox Border to Fixed3D
   * Set BackColor of labels to white
